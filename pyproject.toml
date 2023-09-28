@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Vincent Son", email = "vincent.son.ziwen@outlook.com"},
+]
+dependencies = [
+    "deepl-translate>=1.2.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+

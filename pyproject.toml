@@ -1,7 +1,7 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "Deepl_Translate_CLI"
+version = "0.0.2"
+description = "A script to translate text using unofficlal Deepl Translate API."
 authors = [
     {name = "Vincent Son", email = "vincent.son.ziwen@outlook.com"},
 ]
@@ -12,3 +12,6 @@ requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
+[tool.pdm.dev-dependencies]
+dev = [
+]

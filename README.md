@@ -1,5 +1,7 @@
 # Python Deepl Translator CLI
 
+Translate all text from stdin and output to stdout. Can be used in terminal directly.
+
 ## Installation
 
 ```bash
